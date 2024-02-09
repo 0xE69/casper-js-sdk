@@ -118,7 +118,7 @@
     "@open-rpc/client-js": "^1.8.1",
     "@scure/bip32": "^1.1.5",
     "@scure/bip39": "^1.2.0",
-    "@types/ws": "^8.2.2",
+    "@types/ws": "^8.5.10",
     "glob": "^7.1.6",
     "humanize-duration": "^3.24.0",
     "key-encoder": "^2.0.3",
