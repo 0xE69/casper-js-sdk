@@ -120,7 +120,7 @@
     "@scure/bip39": "^1.2.0",
     "@types/ws": "^8.2.2",
     "glob": "^7.1.6",
-    "humanize-duration": "^3.24.0",
+    "humanize-duration": "^3.31.0",
     "key-encoder": "^2.0.3",
     "lodash": "^4.17.21",
     "node-fetch": "2.6.13",
